@@ -1,29 +1,29 @@
-<!-- Level 1 header -->
-Zetsy
+<header><!-- Level 1 header -->
+<h1>Zetsy</h1>
+</header>
+<img src="necklace.jpg">
+<h2>About</h2>
 
-<!-- featured image -->
-[necklace.jpg]
-
-<!-- level 2 header -->
-About
-
-<!-- paragraph -->
+<p>
 Mary Wanesia is Jeweler, an Arizona native, and a member of the Navajo tribe. She specializes in creating beautiful contemporary takes on the tradional adornments worn by Navajo in ceramonies and in daily life.
-
+</p>
 <!-- paragraph -->
+<p>
 Jewelry in the Americas has an ancient history. Beginning as far back as 8800 BCE, Paleo-Indians in the American Southwest drilled and shaped multicolored stones and shells into beads and pendants. Olivella shell beads, dating from 6000 BCE, were found in Nevada; bone, antler, and possibly marine shell beads from 7000 BCE were found in Russell Cave in Alabama; copper jewelry was traded from Lake Superior beginning in 3000 BCE; and stone beads were carved in Poverty Point in Louisiana in 1500 BCE. Learn more.
+</p>
 <!-- Note: "Learn more" links to: http://en.wikipedia.org/wiki/Native_American_jewelry -->
-
+Note: <a href="http://en.wikipedia.org/wiki/Native_American_jewelry">Learn More</a>
 <!-- paragraph -->
-Mary's jewelry has received recognition, and been featured in the National Museum of the American Indian, The New York Times Style Magazine, and Sedona Monthly. The collection been has sold across the United States and Europe and been carried by the retail stores of Bergdorf Goodman.
-
+<p>Mary's jewelry has received recognition, and been featured in the National Museum of the American Indian, The New York Times Style Magazine, and Sedona Monthly. The collection been has sold across the United States and Europe and been carried by the retail stores of Bergdorf Goodman.
+</p>
 <!-- level 2 header -->
-Press
+<h2>Press</h2>
 
 <!-- press images -->
-[nmai-logo.png]<!-- links to: http://nmai.si.edu/home/ -->
-[times-logo.png]<!-- links to: http://www.nytimes.com/pages/t-magazine/ -->
-[sedona-logo.png]<!-- links to: http://www.sedonamonthly.com -->
-[bergdorf-logo.png]<!-- links to: http://www.bergdorfgoodman.com/ -->
+<a href="http://nmai.si.edu/home/"><img src="nmai-logo.png"></a>
+<a href="http://www.nytimes.com/pages/t-magazine/"><img src="times-logo.png"></a>
+<a href="http://www.sedonamonthly.com"><img src="sedona-logo.png"></a>
+<a href="http://www.bergdorfgoodman.com/"><img src="bergdorf-logo.png"></a>
 
-<!-- paragraph -->&copy; 2014 Zetsy, All Rights Reserved.
+
+<p>&copy; 2014 Zetsy, All Rights Reserved.</p>

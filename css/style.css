@@ -17,4 +17,52 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1 {
+    font-size: 5em;
+    font-family: 'Baskerville', serif;
+    color: #99ADA5;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    font-weight: normal;
+    margin: 0 0 5px;
+    transition: color 1s ease,
+}
+
+h1:hover {
+color: #707F7A;
+}
+
+h2 {
+  color: #707F7A;
+  font-size: 2em;
+}
+
+#fish a {
+    color: #1783bb;
+    text-decoration: none;
+    transition: background 1s ease,
+}
+
+#fish a:hover {
+  text-decoration: underline;
+}
+
+
+#necklace img {
+    border: 5px rgb(152,173,166) solid;
+}
+
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
+
+#press img:hover {
+    border: 5px rgb(152,173,166) solid;
+}
+
+footer  {
+text-align: right;
+font-size: 0.8em;
+}
 /* Write all remaining styles here */
